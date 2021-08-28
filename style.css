@@ -1,0 +1,42 @@
+body{
+  margin:0;
+  padding: 0;
+  background-color: #0;
+}
+.center{
+  position: absolute;
+  top:18%;
+  left:42%;
+  transform: translate(-18%, -42%);
+}
+button{
+  padding: 15px 10px;
+  border:none;
+  background-color:white;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 13px;
+  color:#ff;
+  border-radius: 35px;
+  cursor: pointer;
+  animation:animate 5s Linear infinite;
+}
+@keyframes animate{
+  0%{
+      background-color: red;
+}
+    20%{
+      background-color: purple;
+}
+    40%{
+      background-color: orange;
+}
+    60%{
+      background-color: green;
+}
+    80%{
+      background-color: pink;
+}
+    100%{
+      background-color: blue;
+  }
