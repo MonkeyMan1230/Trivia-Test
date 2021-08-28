@@ -37,11 +37,3 @@ mark = (score/totalquestions) * 100
 
 print("Mark:", mark)
 print('Thanks For Playing, Good Bye!!!!')
-
-<!doctype html>
- <head>
-  <body>
-<h1>#Made by The Special#3116</h1>
-   <pm>#Thanks For Trying</pm>
-  </body>
- </head>
