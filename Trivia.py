@@ -34,4 +34,4 @@ if ans.lower() == 'yes':
      print('You got', score, "Questions Correct.")
      mark = (score/totalquestions) * 100
      print("Mark:", mark)
-     print('Thanks For Playing, Good Bye!!!!')
+print('Thanks For Playing, Good Bye!!!!')
