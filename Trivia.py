@@ -31,7 +31,7 @@ if ans.lower() == 'yes':
       score += 1
     else:
         print('Incorrect')
-print('You got', score, "Questions Correct.")
-mark = (score/totalquestions) * 100
-print("Mark:", mark)
-print('Thanks For Playing, Good Bye!!!!')
+     print('You got', score, "Questions Correct.")
+     mark = (score/totalquestions) * 100
+     print("Mark:", mark)
+     print('Thanks For Playing, Good Bye!!!!')
